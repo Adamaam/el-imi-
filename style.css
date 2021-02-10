@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(6, 197, 48);
+  color: cyan;
+}
+#taulukko{
+  background-color: darkorange;
+}
+#lampotila{
+  background-color: rgb(255, 0, 21);
+}
+#ilmankosteus{
+  background-color: rgb(47, 20, 191);
+}
+.taulukko_class{
+  font-family: Arial, Helvetica, sans-serif;
+}
